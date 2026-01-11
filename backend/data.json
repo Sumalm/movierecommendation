@@ -1,0 +1,14 @@
+{
+  "history": [
+    {
+      "input": "romantic movies",
+      "movies": "1. The Notebook\n2. Roman Holiday\n3. Pride and Prejudice\n4. La La Land\n5. Before Sunrise",
+      "time": "2026-01-11T03:00:12.374Z"
+    },
+    {
+      "input": "romantic movie",
+      "movies": "1. \"The Notebook\" - A classic romantic drama based on the novel by Nicholas Sparks about a young couple who fall in love in the 1940s and are separated by circumstances, only to reunite years later.\n\n2. \"La La Land\" - A modern musical romance about a jazz musician and an aspiring actress who fall in love while pursuing their dreams in Los Angeles.\n\n3. \"Pride and Prejudice\" - A timeless adaptation of Jane Austen's novel about the complicated relationship between Mr. Darcy and Elizabeth Bennet in 19th century England.\n\n4. \"Dirty Dancing\" - A romantic drama set in the 1960s about a young woman who falls in love with a dance instructor while vacationing with her family at a resort.\n\n5. \"Before Sunrise\" - A romantic drama about two strangers who meet on a train and spend a magical night together exploring Vienna, contemplating life, love, and connection.",
+      "time": "2026-01-11T03:08:11.591Z"
+    }
+  ]
+}
